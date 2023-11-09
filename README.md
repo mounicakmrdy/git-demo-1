@@ -3,4 +3,7 @@
 understanding git and git hub
 
 ## Additional Info
-**contents** _updated_ *here*
+**contents** *updated* here
+checkout tutorials and books
+
+
